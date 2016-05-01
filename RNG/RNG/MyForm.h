@@ -145,7 +145,7 @@ namespace RNG {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(44, 178);
+			this->button1->Location = System::Drawing::Point(44, 157);
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(75, 23);
 			this->button1->TabIndex = 7;
@@ -155,7 +155,7 @@ namespace RNG {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(153, 178);
+			this->button2->Location = System::Drawing::Point(153, 157);
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(75, 23);
 			this->button2->TabIndex = 8;
@@ -169,6 +169,7 @@ namespace RNG {
 			this->pictureBox1->Location = System::Drawing::Point(12, 17);
 			this->pictureBox1->Name = L"pictureBox1";
 			this->pictureBox1->Size = System::Drawing::Size(107, 94);
+			this->pictureBox1->SizeMode = System::Windows::Forms::PictureBoxSizeMode::StretchImage;
 			this->pictureBox1->TabIndex = 9;
 			this->pictureBox1->TabStop = false;
 			this->pictureBox1->Click += gcnew System::EventHandler(this, &MyForm::pictureBox1_Click);
@@ -177,7 +178,7 @@ namespace RNG {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(284, 261);
+			this->ClientSize = System::Drawing::Size(284, 209);
 			this->Controls->Add(this->pictureBox1);
 			this->Controls->Add(this->button2);
 			this->Controls->Add(this->button1);
