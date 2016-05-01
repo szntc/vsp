@@ -87,7 +87,7 @@ namespace RNG {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(35, 13);
 			this->label1->TabIndex = 0;
-			this->label1->Text = L"label1";
+			this->label1->Text = L"-";
 			// 
 			// label2
 			// 
@@ -96,7 +96,7 @@ namespace RNG {
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(35, 13);
 			this->label2->TabIndex = 1;
-			this->label2->Text = L"label2";
+			this->label2->Text = L"-";
 			// 
 			// label3
 			// 
@@ -105,7 +105,7 @@ namespace RNG {
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(35, 13);
 			this->label3->TabIndex = 2;
-			this->label3->Text = L"label3";
+			this->label3->Text = L"-";
 			// 
 			// label4
 			// 
@@ -114,7 +114,7 @@ namespace RNG {
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(35, 13);
 			this->label4->TabIndex = 3;
-			this->label4->Text = L"label4";
+			this->label4->Text = L"-";
 			// 
 			// label5
 			// 
@@ -123,7 +123,7 @@ namespace RNG {
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(35, 13);
 			this->label5->TabIndex = 4;
-			this->label5->Text = L"label5";
+			this->label5->Text = L"-";
 			// 
 			// label6
 			// 
@@ -132,7 +132,7 @@ namespace RNG {
 			this->label6->Name = L"label6";
 			this->label6->Size = System::Drawing::Size(35, 13);
 			this->label6->TabIndex = 5;
-			this->label6->Text = L"label6";
+			this->label6->Text = L"-";
 			// 
 			// label7
 			// 
@@ -141,7 +141,7 @@ namespace RNG {
 			this->label7->Name = L"label7";
 			this->label7->Size = System::Drawing::Size(35, 13);
 			this->label7->TabIndex = 6;
-			this->label7->Text = L"label7";
+			this->label7->Text = L"-";
 			// 
 			// button1
 			// 
